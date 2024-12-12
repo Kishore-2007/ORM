@@ -44,6 +44,8 @@ admin.site.register(bankloan,bankloanAdmin)
 ![WhatsApp Image 2024-12-07 at 10 48 41 PM](https://github.com/user-attachments/assets/65e9e71a-6c8e-4da4-959e-715097a2981a)
 ![Screenshot 2024-12-07 230142](https://github.com/user-attachments/assets/683bf22c-6431-4c81-8910-44130767c515)
 ![Screenshot 2024-12-07 231534](https://github.com/user-attachments/assets/f57432de-9d52-4205-a53d-42f308f3b380)
+![Screenshot 2024-12-12 132041](https://github.com/user-attachments/assets/68f66a55-7821-4813-bbf9-0c5bc21ea3fd)
+
 
 
 # RESULT
